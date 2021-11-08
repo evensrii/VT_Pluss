@@ -1,5 +1,5 @@
 # VT_Pluss
-Data til bruk på VT+ sine nettsider
+Data til bruk på VT+ sine nettsider.
 
 Her legges kun originale og behandlede datafiler med tilhørende dokumentasjon.
 
