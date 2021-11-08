@@ -1,0 +1,143 @@
+﻿{
+    "name": "VT+",
+    "dataColors": [
+        "#7dbeba",
+        "#cfc98b",
+        "#eb8380",
+        "#ad879e",
+        "#87a5af",
+        "#8db9a0",
+        "#d1ab94",
+        "#7ABED3",
+        "#EEEEEE",
+        "#CACACA",
+        "#005260",
+        "#FBFBFB"
+    ],
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [
+                    {
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI",
+                        "color": {
+                            "solid": {}
+                        }
+                    }
+                ],
+                "general": [
+                    {
+                        "responsive": true
+                    }
+                ]
+            }
+        },
+        "barChart": {
+            "*": {
+                "general": [
+                    {
+                        "responsive": true
+                    }
+                ],
+                "legend": [
+                    {
+                        "position": "Right",
+                        "showTitle": false,
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI"
+                    }
+                ],
+                "categoryAxis": [
+                    {
+                        "show": true,
+                        "position": "Bottom",
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI",
+                        "showAxisTitle": false,
+                        "titleFontSize": 14,
+                        "titleFontFamily": "Segoe UI"
+                    }
+                ],
+                "valueAxis": [
+                    {
+                        "show": true,
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI",
+                        "labelPrecision": 1,
+                        "titleFontSize": 12,
+                        "titleFontFamily": "Segoe UI"
+                    }
+                ],
+                "labels": [
+                    {
+                        "show": false
+                    }
+                ]
+            }
+        },
+        "clusteredBarChart": {
+            "*": {
+                "general": [
+                    {
+                        "responsive": true
+                    }
+                ],
+                "legend": [
+                    {
+                        "show": true,
+                        "position": "Right",
+                        "showTitle": false,
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI"
+                    }
+                ],
+                "categoryAxis": [
+                    {
+                        "show": true,
+                        "position": "Bottom",
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI",
+                        "showAxisTitle": true,
+                        "titleFontSize": 12,
+                        "titleFontFamily": "Segoe UI"
+                    }
+                ],
+                "valueAxis": [
+                    {
+                        "show": true,
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI",
+                        "labelPrecision": 1,
+                        "showAxisTitle": false,
+                        "titleFontSize": 12,
+                        "titleFontFamily": "Segoe UI"
+                    }
+                ],
+                "labels": [
+                    {
+                        "show": false
+                    }
+                ]
+            }
+        },
+        "ShapeMap": {
+            "*": {
+                "legend": [
+                    {
+                        "show": false
+                    }
+                ]
+            }
+        },
+        "slicer": {
+            "*": {
+                "general": [
+                    {
+                        "responsive": true
+                    }
+                ]
+            }
+        }
+    }
+}
