@@ -3,7 +3,7 @@ Repository ("område") for data til bruk på VT+ sine nettsider, samt ferdige .p
 
 Power BI-rapportene publiseres til et av de ti arbeidsområdene på "app.powerbi.com".
 
-Se mappen "Veiledninger" for hjelp med:
+Se mappen "Veiledninger" for hjelp med:\n
 Github
 PBI med live data fra SSB
 Nedlasting og redigering av custom geojson-filer (kart)
