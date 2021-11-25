@@ -3,6 +3,7 @@ Repository ("område") for data til bruk på VT+ sine nettsider, samt ferdige .p
 
 Power BI-rapportene publiseres til et av de ti arbeidsområdene på "app.powerbi.com".
 
+
 Se mappen "Veiledninger" for hjelp med:
 
 Github
