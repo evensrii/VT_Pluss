@@ -4,7 +4,7 @@ Repository ("område") for data til bruk på VT+ sine nettsider, samt ferdige .p
 Power BI-rapportene publiseres til et av de ti arbeidsområdene på "app.powerbi.com".
 
 
-Se mappen "Veiledninger" for hjelp med:
+På Teams (Team "Nettsider - Kunnskap om regionen") ligger veiledninger for hjelp med:
 
 Github
 
@@ -19,3 +19,5 @@ Generell veiledning i Everviz
 Generell veiledning i Power BI
 
 Hvordan publisere i Episerver
+
+..osv.
