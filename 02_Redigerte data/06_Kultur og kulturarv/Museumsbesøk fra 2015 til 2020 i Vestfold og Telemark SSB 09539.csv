@@ -1,10 +1,19 @@
-Region;"Type besøk; ";"2015;";"2016;";"2017;";"2018;";"2019;";"2020;"
-38 Vestfold og Telemark;"Enkeltbesøk;";276520;287415;265207;264481;305329;218324
-38 Vestfold og Telemark;"Gruppebesøk;";85564;83860;81779;75784;81464;45002
- Vestfold og Telemark;"Betalende besøkende;";167633;147856;203483;185700;195925;137357
-07 Vestfold (-2019);Enkeltbesøk;93025;104660;131065;124100;135566;0
-07 Vestfold (-2019);Gruppebesøk;44968;39624;38588;36964;43345;0
-07 Vestfold (-2019);Betalende besøkende;42716;48942;83186;75389;67930;0
-08 Telemark (-2019);Enkeltbesøk;183495;182755;134142;140381;169763;0
-08 Telemark (-2019);Gruppebesøk;40596;44236;43191;38820;38119;0
-08 Telemark (-2019);Betalende besøkende;124917;98914;120297;110311;127995;0
+"Type besøk; ";År;Antall besøk
+"Enkeltbesøk;";"2015;";276520
+"Enkeltbesøk;";"2016;";287415
+"Enkeltbesøk;";"2017;";265207
+"Enkeltbesøk;";"2018;";264481
+"Enkeltbesøk;";"2019;";305329
+"Enkeltbesøk;";"2020;";218324
+"Gruppebesøk;";"2015;";85564
+"Gruppebesøk;";"2016;";83860
+"Gruppebesøk;";"2017;";81779
+"Gruppebesøk;";"2018;";75784
+"Gruppebesøk;";"2019;";81464
+"Gruppebesøk;";"2020;";45002
+"Betalende besøkende;";"2015;";167633
+"Betalende besøkende;";"2016;";147856
+"Betalende besøkende;";"2017;";203483
+"Betalende besøkende;";"2018;";185700
+"Betalende besøkende;";"2019;";195925
+"Betalende besøkende;";"2020;";137357
