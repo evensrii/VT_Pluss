@@ -1,70 +1,69 @@
-Nytt nummer og navn;Nye kommunenavn;Region;Alle kommunenr;Alle kommuner navn;Kommunenr 2020;Alle kommuner;Region rekkefølge;Rekkefølge,Fylke
-K-3801 Horten;Horten;Horten;0701;Horten;3801;0701 Horten;2;B,Vestfold
-K-3802 Holmestrand;Holmestrand;Holmestrand;0702;Holmestrand;3802;0702 Holmestrand;1;A,Vestfold
-K-3801 Horten;Horten;Horten;0703;Horten;3801;0703 Horten;2;B,Vestfold
-K-3803 Tønsberg;Tønsberg;Tønsberg og Færder;0704;Tønsberg;3803;0704 Tønsberg;3;C,Vestfold
-K-3803 Tønsberg;Tønsberg;Tønsberg og Færder;0705;Tønsberg;3803;0705 Tønsberg;3;C,Vestfold
-K-3804 Sandefjord;Sandefjord;Sandefjord;0706;Sandefjord;3804;0706 Sandefjord;4;D,Vestfold
-K-3805 Larvik;Larvik;Larvik;0707;Larvik;3805;0707 Larvik;5;E,Vestfold
-K-3805 Larvik;Larvik;Larvik;0708;Stavern;3805;0708 Stavern;5;E,Vestfold
-K-3805 Larvik;Larvik;Larvik;0709;Larvik;3805;0709 Larvik;5;E,Vestfold
-K-3804 Sandefjord;Sandefjord;Sandefjord;0710;Sandefjord;3804;0710 Sandefjord;4;D,Vestfold
-K-3805 Larvik;Larvik;Larvik;0712;Larvik;3805;0712 Larvik;5;E,Vestfold
-K-3802 Holmestrand;Holmestrand;Holmestrand;0713;Sande (Vestfold);3802;0713 Sande (Vestfold);1;A,Vestfold
-K-3802 Holmestrand;Holmestrand;Holmestrand;0714;Hof;3802;0714 Hof;1;A,Vestfold
-K-3802 Holmestrand;Holmestrand;Holmestrand;0715;Holmestrand;3802;0715 Holmestrand;1;A,Vestfold
-K-3803 Tønsberg;Tønsberg;Tønsberg og Færder;0716;Re;3803;0716 Re;3;C,Vestfold
-K-3803 Tønsberg;Tønsberg;Tønsberg og Færder;0716;Våle;3803;0716 Våle;3;C,Vestfold
-K-3801 Horten;Horten;Horten;0717;Borre;3801;0717 Borre;2;B,Vestfold
-K-3803 Tønsberg;Tønsberg;Tønsberg og Færder;0718;Ramnes;3803;0718 Ramnes;3;C,Vestfold
-K-3804 Sandefjord;Sandefjord;Sandefjord;0719;Andebu;3804;0719 Andebu;4;D,Vestfold
-K-3804 Sandefjord;Sandefjord;Sandefjord;0720;Stokke;3804;0720 Stokke;4;D,Vestfold
-K-3803 Tønsberg;Tønsberg;Tønsberg og Færder;0721;Sem;3803;0721 Sem;3;C,Vestfold
-K-3811 Færder;Færder;Tønsberg og Færder;0722;Nøtterøy;3811;0722 Nøtterøy;3;C,Vestfold
-K-3811 Færder;Færder;Tønsberg og Færder;0722;Tjøme;3811;0722 Tjøme;3;C,Vestfold
-K-3805 Larvik;Larvik;Larvik;0725;Tjølling;3805;0725 Tjølling;5;E,Vestfold
-K-3805 Larvik;Larvik;Larvik;0726;Brunlanes;3805;0726 Brunlanes;5;E,Vestfold
-K-3805 Larvik;Larvik;Larvik;0727;Larvik;3805;0727 Larvik;5;E,Vestfold
-K-3805 Larvik;Larvik;Larvik;0728;Lardal;3805;0728 Lardal;5;E,Vestfold
-K-3811 Færder;Færder;Tønsberg og Færder;0729;Færder;3811;0729 Færder;3;C,Vestfold
-K-3806 Porsgrunn;Porsgrunn;Grenland;0805;Porsgrunn;3806;0805 Porsgrunn;6;F,Telemark
-K-3807 Skien;Skien;Grenland;0806;Skien;3807;0806 Skien;6;F,Telemark
-K-3808 Notodden;Notodden;Øst-Telemark;0807;Notodden;3808;0807 Notodden;8;H,Telemark
-K-3812 Siljan;Siljan;Grenland;0811;Siljan;3812;0811 Siljan;6;F,Telemark
-K-3813 Bamble;Bamble;Grenland;0814;Bamble;3813;0814 Bamble;6;F,Telemark
-K-3814 Kragerø;Kragerø;Grenland;0815;Kragerø;3814;0815 Kragerø;6;F,Telemark
-K-3815 Drangedal;Drangedal;Grenland;0817;Drangedal;3815;0817 Drangedal;6;F,Telemark
-K-3816 Nome;Nome;Nome og Midt-Telemark;0819;Nome;3816;0819 Nome;7;G,Telemark
-K-3817 Midt-Telemark;Midt-Telemark;Nome og Midt-Telemark;0821;Bø (Telemark);3817;0821 Bø (Telemark);7;G,Telemark
-K-3817 Midt-Telemark;Midt-Telemark;Nome og Midt-Telemark;0822;Sauherad;3817;0822 Sauherad;7;G,Telemark
-K-3818 Tinn;Tinn;Øst-Telemark;0826;Tinn;3818;0826 Tinn;8;H,Telemark
-K-3819 Hjartdal;Hjartdal;Øst-Telemark;0827;Hjartdal;3819;0827 Hjartdal;8;H,Telemark
-K-3820 Seljord;Seljord;Vest-Telemark;0828;Seljord;3820;0828 Seljord;9;I,Telemark
-K-3821 Kviteseid;Kviteseid;Vest-Telemark;0829;Kviteseid;3821;0829 Kviteseid;9;I,Telemark
-K-3822 Nissedal;Nissedal;Vest-Telemark;0830;Nissedal;3822;0830 Nissedal;9;I,Telemark
-K-3823 Fyresdal;Fyresdal;Vest-Telemark;0831;Fyresdal;3823;0831 Fyresdal;9;I,Telemark
-K-3824 Tokke;Tokke;Vest-Telemark;0833;Tokke;3824;0833 Tokke;9;I,Telemark
-K-3825 Vinje;Vinje;Vest-Telemark;0834;Vinje;3825;0834 Vinje;9;I,Telemark
-K-3801 Horten;Horten;Horten;3801;Horten;3801;3801 Horten;2;B,Vestfold
-K-3802 Holmestrand;Holmestrand;Holmestrand;3802;Holmestrand;3802;3802 Holmestrand;1;A,Vestfold
-K-3803 Tønsberg;Tønsberg;Tønsberg og Færder;3803;Tønsberg;3803;3803 Tønsberg;3;C,Vestfold
-K-3804 Sandefjord;Sandefjord;Sandefjord;3804;Sandefjord;3804;3804 Sandefjord;4;D,Vestfold
-K-3805 Larvik;Larvik;Larvik;3805;Larvik;3805;3805 Larvik;5;E,Vestfold
-K-3806 Porsgrunn;Porsgrunn;Grenland;3806;Porsgrunn;3806;3806 Porsgrunn;6;F,Telemark
-K-3807 Skien;Skien;Grenland;3807;Skien;3807;3807 Skien;6;F,Telemark
-K-3808 Notodden;Notodden;Øst-Telemark;3808;Notodden;3808;3808 Notodden;8;H,Telemark
-K-3811 Færder;Færder;Tønsberg og Færder;3811;Færder;3811;3811 Færder;3;C,Vestfold
-K-3812 Siljan;Siljan;Grenland;3812;Siljan;3812;3812 Siljan;6;F,Telemark
-K-3813 Bamble;Bamble;Grenland;3813;Bamble;3813;3813 Bamble;6;F,Telemark
-K-3814 Kragerø;Kragerø;Grenland;3814;Kragerø;3814;3814 Kragerø;6;F,Telemark
-K-3815 Drangedal;Drangedal;Grenland;3815;Drangedal;3815;3815 Drangedal;6;F,Telemark
-K-3816 Nome;Nome;Nome og Midt-Telemark;3816;Nome;3816;3816 Nome;7;G,Telemark
-K-3817 Midt-Telemark;Midt-Telemark;Nome og Midt-Telemark;3817;Midt-Telemark;3817;3817 Midt-Telemark;7;G,Telemark
-K-3818 Tinn;Tinn;Øst-Telemark;3818;Tinn;3818;3818 Tinn;8;H,Telemark
-K-3819 Hjartdal;Hjartdal;Øst-Telemark;3819;Hjartdal;3819;3819 Hjartdal;8;H,Telemark
-K-3820 Seljord;Seljord;Vest-Telemark;3820;Seljord;3820;3820 Seljord;9;I,Telemark
-K-3821 Kviteseid;Kviteseid;Vest-Telemark;3821;Kviteseid;3821;3821 Kviteseid;9;I,Telemark
-K-3822 Nissedal;Nissedal;Vest-Telemark;3822;Nissedal;3822;3822 Nissedal;9;I,Telemark
-K-3823 Fyresdal;Fyresdal;Vest-Telemark;3823;Fyresdal;3823;3823 Fyresdal;9;I,Telemark
-K-3824 Tokke;Tokke;Vest-Telemark;3824;Tokke;3824;3824 Tokke;9;I,Telemark
-K-3825 Vinje;Vinje;Vest-Telemark;3825;Vinje;3825;3825 Vinje;9;I,Telemark
+﻿Alle kommuner;Alle kommunenummer;Alle kommuner navn;KOmmuner 2020;Kommunenummer 2020;Kommunenavn 2020;Region;Region rekkefølge;Fylke
+0701 Horten;0701;Horten;K-3801 Horten;3801;Horten;Horten;2;Vestfold
+0702 Holmestrand;0702;Holmestrand;K-3802 Holmestrand;3802;Holmestrand;Holmestrand;1;Vestfold
+0703 Horten;0703;Horten;K-3801 Horten;3801;Horten;Horten;2;Vestfold
+0704 Tønsberg;0704;Tønsberg;K-3803 Tønsberg;3803;Tønsberg;Tønsberg og Færder;3;Vestfold
+0705 Tønsberg;0705;Tønsberg;K-3803 Tønsberg;3803;Tønsberg;Tønsberg og Færder;3;Vestfold
+0706 Sandefjord;0706;Sandefjord;K-3804 Sandefjord;3804;Sandefjord;Sandefjord;4;Vestfold
+0707 Larvik;0707;Larvik;K-3805 Larvik;3805;Larvik;Larvik;5;Vestfold
+0708 Stavern;0708;Stavern;K-3805 Larvik;3805;Larvik;Larvik;5;Vestfold
+0709 Larvik;0709;Larvik;K-3805 Larvik;3805;Larvik;Larvik;5;Vestfold
+0710 Sandefjord;0710;Sandefjord;K-3804 Sandefjord;3804;Sandefjord;Sandefjord;4;Vestfold
+0712 Larvik;0712;Larvik;K-3805 Larvik;3805;Larvik;Larvik;5;Vestfold
+0713 Sande (Vestfold);0713;Sande (Vestfold);K-3802 Holmestrand;3802;Holmestrand;Holmestrand;1;Vestfold
+0714 Hof;0714;Hof;K-3802 Holmestrand;3802;Holmestrand;Holmestrand;1;Vestfold
+0715 Holmestrand;0715;Holmestrand;K-3802 Holmestrand;3802;Holmestrand;Holmestrand;1;Vestfold
+0716 Re;0716;Re;K-3803 Tønsberg;3803;Tønsberg;Tønsberg og Færder;3;Vestfold
+0717 Borre;0717;Borre;K-3801 Horten;3801;Horten;Horten;2;Vestfold
+0718 Ramnes;0718;Ramnes;K-3803 Tønsberg;3803;Tønsberg;Tønsberg og Færder;3;Vestfold
+0719 Andebu;0719;Andebu;K-3804 Sandefjord;3804;Sandefjord;Sandefjord;4;Vestfold
+0720 Stokke;0720;Stokke;K-3804 Sandefjord;3804;Sandefjord;Sandefjord;4;Vestfold
+0721 Sem;0721;Sem;K-3803 Tønsberg;3803;Tønsberg;Tønsberg og Færder;3;Vestfold
+0722 Nøtterøy;0722;Nøtterøy;K-3811 Færder;3811;Færder;Tønsberg og Færder;3;Vestfold
+0723 Tjøme;0723;Tjøme;K-3811 Færder;3811;Færder;Tønsberg og Færder;3;Vestfold
+0725 Tjølling;0725;Tjølling;K-3805 Larvik;3805;Larvik;Larvik;5;Vestfold
+0726 Brunlanes;0726;Brunlanes;K-3805 Larvik;3805;Larvik;Larvik;5;Vestfold
+0727 Larvik;0727;Larvik;K-3805 Larvik;3805;Larvik;Larvik;5;Vestfold
+0728 Lardal;0728;Lardal;K-3805 Larvik;3805;Larvik;Larvik;5;Vestfold
+0729 Færder;0729;Færder;K-3811 Færder;3811;Færder;Tønsberg og Færder;3;Vestfold
+0805 Porsgrunn;0805;Porsgrunn;K-3806 Porsgrunn;3806;Porsgrunn;Grenland;6;Telemark
+0806 Skien;0806;Skien;K-3807 Skien;3807;Skien;Grenland;6;Telemark
+0807 Notodden;0807;Notodden;K-3808 Notodden;3808;Notodden;Øst-Telemark;8;Telemark
+0811 Siljan;0811;Siljan;K-3812 Siljan;3812;Siljan;Grenland;6;Telemark
+0814 Bamble;0814;Bamble;K-3813 Bamble;3813;Bamble;Grenland;6;Telemark
+0815 Kragerø;0815;Kragerø;K-3814 Kragerø;3814;Kragerø;Grenland;6;Telemark
+0817 Drangedal;0817;Drangedal;K-3815 Drangedal;3815;Drangedal;Grenland;6;Telemark
+0819 Nome;0819;Nome;K-3816 Nome;3816;Nome;Nome og Midt-Telemark;7;Telemark
+0821 Bø (Telemark);0821;Bø (Telemark);K-3817 Midt-Telemark;3817;Midt-Telemark;Nome og Midt-Telemark;7;Telemark
+0822 Sauherad;0822;Sauherad;K-3817 Midt-Telemark;3817;Midt-Telemark;Nome og Midt-Telemark;7;Telemark
+0826 Tinn;0826;Tinn;K-3818 Tinn;3818;Tinn;Øst-Telemark;8;Telemark
+0827 Hjartdal;0827;Hjartdal;K-3819 Hjartdal;3819;Hjartdal;Øst-Telemark;8;Telemark
+0828 Seljord;0828;Seljord;K-3820 Seljord;3820;Seljord;Vest-Telemark;9;Telemark
+0829 Kviteseid;0829;Kviteseid;K-3821 Kviteseid;3821;Kviteseid;Vest-Telemark;9;Telemark
+0830 Nissedal;0830;Nissedal;K-3822 Nissedal;3822;Nissedal;Vest-Telemark;9;Telemark
+0831 Fyresdal;0831;Fyresdal;K-3823 Fyresdal;3823;Fyresdal;Vest-Telemark;9;Telemark
+0833 Tokke;0833;Tokke;K-3824 Tokke;3824;Tokke;Vest-Telemark;9;Telemark
+0834 Vinje;0834;Vinje;K-3825 Vinje;3825;Vinje;Vest-Telemark;9;Telemark
+3801 Horten;3801;Horten;K-3801 Horten;3801;Horten;Horten;2;Vestfold
+3802 Holmestrand;3802;Holmestrand;K-3802 Holmestrand;3802;Holmestrand;Holmestrand;1;Vestfold
+3803 Tønsberg;3803;Tønsberg;K-3803 Tønsberg;3803;Tønsberg;Tønsberg og Færder;3;Vestfold
+3804 Sandefjord;3804;Sandefjord;K-3804 Sandefjord;3804;Sandefjord;Sandefjord;4;Vestfold
+3805 Larvik;3805;Larvik;K-3805 Larvik;3805;Larvik;Larvik;5;Vestfold
+3806 Porsgrunn;3806;Porsgrunn;K-3806 Porsgrunn;3806;Porsgrunn;Grenland;6;Telemark
+3807 Skien;3807;Skien;K-3807 Skien;3807;Skien;Grenland;6;Telemark
+3808 Notodden;3808;Notodden;K-3808 Notodden;3808;Notodden;Øst-Telemark;8;Telemark
+3811 Færder;3811;Færder;K-3811 Færder;3811;Færder;Tønsberg og Færder;3;Vestfold
+3812 Siljan;3812;Siljan;K-3812 Siljan;3812;Siljan;Grenland;6;Telemark
+3813 Bamble;3813;Bamble;K-3813 Bamble;3813;Bamble;Grenland;6;Telemark
+3814 Kragerø;3814;Kragerø;K-3814 Kragerø;3814;Kragerø;Grenland;6;Telemark
+3815 Drangedal;3815;Drangedal;K-3815 Drangedal;3815;Drangedal;Grenland;6;Telemark
+3816 Nome;3816;Nome;K-3816 Nome;3816;Nome;Nome og Midt-Telemark;7;Telemark
+3817 Midt-Telemark;3817;Midt-Telemark;K-3817 Midt-Telemark;3817;Midt-Telemark;Nome og Midt-Telemark;7;Telemark
+3818 Tinn;3818;Tinn;K-3818 Tinn;3818;Tinn;Øst-Telemark;8;Telemark
+3819 Hjartdal;3819;Hjartdal;K-3819 Hjartdal;3819;Hjartdal;Øst-Telemark;8;Telemark
+3820 Seljord;3820;Seljord;K-3820 Seljord;3820;Seljord;Vest-Telemark;9;Telemark
+3821 Kviteseid;3821;Kviteseid;K-3821 Kviteseid;3821;Kviteseid;Vest-Telemark;9;Telemark
+3822 Nissedal;3822;Nissedal;K-3822 Nissedal;3822;Nissedal;Vest-Telemark;9;Telemark
+3823 Fyresdal;3823;Fyresdal;K-3823 Fyresdal;3823;Fyresdal;Vest-Telemark;9;Telemark
+3824 Tokke;3824;Tokke;K-3824 Tokke;3824;Tokke;Vest-Telemark;9;Telemark
+3825 Vinje;3825;Vinje;K-3825 Vinje;3825;Vinje;Vest-Telemark;9;Telemark
